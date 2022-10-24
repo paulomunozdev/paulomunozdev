@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paulomunozcabrera@gmail.com**
 
-- 📄 Know about my experiences [I am a developer with 4 years of experience in API development and Dynamics 365 development,](I am a developer with 4 years of experience in API development and Dynamics 365 development,)
+- 📄 Know about my experiences [I am a developer with 4 years of experience in API development and Dynamics 365 development,]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
